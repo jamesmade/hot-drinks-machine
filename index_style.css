@@ -2,9 +2,9 @@ html {
     height: 100%;
 }
 body {
-	background: #ffffff url("https://cdn1.vectorstock.com/i/1000x1000/01/90/cafe-shop-exterior-vector-16120190.jpg") no-repeat center center fixed;
-    background-size: 120% auto;
-    position: fixed;
+	background: #ffffff url("./cafe.jpg") no-repeat center center fixed;
+  background-size: 120% auto;
+  position: fixed;
 	padding: 0px;
 	margin: 0px;
 	width: 100%;
